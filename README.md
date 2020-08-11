@@ -1,6 +1,6 @@
 Great that you stumbled upon my GitHub profil :blush:. 
 
-I am a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are both connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I am not alone with this believe. The [German RSE Community](https://de-rse.org/en/) recently formulated this a [position paper](https://arxiv.org/abs/2005.01469).
+I am a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are both connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I am not alone with this believe. Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
 Since 2012, I am one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with a dozen of developers and is used by over 50 research groups and first R&D industrial partners.
 
