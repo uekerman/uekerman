@@ -2,7 +2,7 @@ Great that you stumbled upon my GitHub profil :blush:.
 
 I am a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are both connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I am not alone with this believe. Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
-Since 2012, I am one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with a dozen of developers and is used by over 50 research groups and first R&D industrial partners.
+Since 2012, I am one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with dozen developers and is used by over 50 research groups and first R&D industrial partners.
 
 ***
 
@@ -62,5 +62,40 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 * 2015: A. K\"ohler, *Controlling a two-gene toggle switch -- a genetic inverted pendulum benchmark problem*, Master's Thesis Informatics, TUM
 * 2015: I. Farcas, *High-dimensional uncertainty quantification of fluid-structure interaction*, Master's Thesis Computational Science and Engineering, TUM
 * 2014: M. Fabry, *Design and implementation of a flow rate solver for the V-Hab life support system simulation*, Diploma Thesis Mathematics, TUM  
+
+</details>
+
+### Teaching
+
+<details>
+  <summary>Click to expand</summary>
+  
+* ST 2019, 2020: *Advanced Discretization Techniques*, TU/e 
+  * Format: lecture (part), language: English, audience: Mechanical Engineering (Master), 30 participants 
+  * Content: Finite element discretizations, functional setting, mathematical analysis, data structures, stabilization 
+* WT 2018/19: *Numerical Programming*, TUM
+  * Format: lecture (part), language: English, audience: Informatics (Bachelor), 600 participants
+  * Content: Floating point arithmetic, interpolation, quadrature, solving linear systems, ODEs, iterative methods, eigenvalue problems
+* ST 2013, 2014, 2015, 2016, 2017, 2018: *Computational Fluid Dynamics*, TUM
+  * Format: lab course, language: English, audience: Informatics/ Computational Science and Engineering (Master), 20-30 participants
+  * Content: Implementation of Lattice Boltzmann and incompressible Navier-Stokes solvers in C, conjugate heat transfer, MPI-based code parallelization, etc. 
+* ST 2013, 2018: *Partitioned Fluid-Structure Interaction*, TUM
+  * Format: seminar, language: English, audience: Computational Science and Engineering (Master), 10 participants
+  * Content: Numerical methods for data mapping and equation coupling, HPC aspects of coupled problems, software concepts, etc.
+* WT 2016/17, 2017/18: *Parallel Numerics*, TUM
+  * Format: tutorial, language: English, audience: Informatics/ Computational Science and Engineering (Master), 40-50 participants
+  * Content: Data dependency graphs, MPI and parallel BLAS, block methods, direct and iterative solution of linear systems, eigenvalue problems, domain decomposition methods
+* WT 2016/17: *Turbulent Flow Simulation on HPC Systems*, TUM
+  * Format: lab course, language: English, audience: Informatics/ Mechanical Engineering (Master), 20 participants
+  * Content: Extension of an existing incompressible Navier-Stokes solver in C++ by turbulence models and MPI parallelization, validation against experimental results, performance measurements
+* ST 2014, 2015, 2016: *Uncertainty Quantification*, TUM 
+  * Format: seminar, language: English, audience: Informatics/ Computational Science and Engineering (Master), 10 participants
+  * Content: Stochastic collocation, stochastic Galerkin, high-dimensional quadrature, data assimilation, uncertainty quantification in CFD and FSI problems
+* WT 2013/14, 2014/15, 2015/16: *Scientific Computing Lab*, TUM
+  * Format: lab course, language: English, audience: Computational Science and Engineering (Master), 30-40 participants
+  * Content: Implementation of numerical ODE and PDE methods in Matlab, explicit / implicit Euler, Runge-Kutta methods, finite differences for heat equation
+* WT 2014/15: *Software Engineering Lab: Molecular Dynamics*, TUM
+  * Format: lab course, language: German, audience: Informatics (Bachelor), 10 participants
+  * Content: Development of a short-range molecular dynamics simulation in C++, leapfrog time-stepping, thermostats, linked-cell algorithm, unit tests, code documentation, version control
 
 </details>
