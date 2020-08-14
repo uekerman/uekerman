@@ -10,7 +10,8 @@ I am a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Eng
 Since 2012, I am one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with dozen developers and is used by over 50 research groups and first R&D industrial partners.
 
 ***
-Read more about: 
+### Read more about: 
+
 * [The latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274)
 * [preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5)
 ***
