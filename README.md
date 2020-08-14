@@ -6,10 +6,6 @@ Since 2012, I am one of the main developers of the [coupling library preCICE](ht
 
 ***
 
-### Publications
-
-You can find my publications on [Google Scholar](https://scholar.google.de/citations?user=CGxtmcwAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Benjamin_Uekermann).
-
 ### Research Profile
 
 I always use this sentence: Development of numerical methods and algorithms for multi-physics multi-scale simulations, their efficient implementation on parallel systems, and their realization in easy-to-use, sustainable, and free software. So, quite interdisciplinary. Some buzzwords:
@@ -17,7 +13,20 @@ I always use this sentence: Development of numerical methods and algorithms for 
 * **Computer Science**: high-performance computing, research software engineering, free and open-source software
 * **Engineering**: fluid-structure interaction, fluid-acoustics coupling, turbulence modeling, finite element method
 
+### Publications
+
+You can find my publications on [Google Scholar](https://scholar.google.de/citations?user=CGxtmcwAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Benjamin_Uekermann).
+
 ### CV
+
+* 2019–2020: Postdoc, [Energy Technolog](https://www.energy-tue.nl/), Mechanical Engineering, TU/e, [EuroTech Postdoc Program](http://postdoc.eurotech-universities.eu/)
+* 2016–2018: Postdoc, [Scientific Computing in Computer Science](https://www5.in.tum.de/wiki/index.php/Welcome_to_SCCS!), TUM, Scientific Program Manager of [SPPEXA](http://www.sppexa.de/)
+* 2012–2016: Doctoral Candidate, [Scientific Computing in Computer Science](https://www5.in.tum.de/wiki/index.php/Welcome_to_SCCS!), TUM
+  * 2015: Research stay of two months at [Center for Applied Scientific Computing](https://computing.llnl.gov/casc), Lawrence Livermore National Laboratory, USA
+  * 2014: Research stay of two months at [High Performance Computational Mechanics](https://www.bsc.es/discover-bsc/organisation/scientific-structure/high-performance-computational-mechanics), Barcelona Supercomputing Center, Spain
+* 2006–2012: Diploma in Mathematics, TUM
+  * 2011–2012: Diploma Thesis at [High Performance Computational Mechanics](https://www.bsc.es/discover-bsc/organisation/scientific-structure/high-performance-computational-mechanics), Barcelona Supercomputing Center, Spain  
+  * 2009–2010: Exchange program at Ecole Polytechnique, Paris, France
 
 ### Doctoral Candidates
 
