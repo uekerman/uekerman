@@ -56,7 +56,7 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 * 2018: A. Trujillo, *Structural multi-model coupling with CalculiX and preCICE*, Master's Thesis Computational Science, Uppsala University and TUM
 * 2018: A. Reiser, *Extending a CFD lab course by a preCICE conjugate heat transfer tutorial*, Master's Thesis Informatics, TUM
 * 2018: F. Gillioz, *Numerical optimisation of undercuts in mould making*, Master's Thesis Informatics, TUM
-* 2018: H. Ashraf, P.-H. Huang, F. Lachenmaier, K. Martynov, D. Sashko, J. S\"ultemeyer, *Interactive preCICE online tutorial*, BGCE Honours Project, TUM
+* 2018: H. Ashraf, P.-H. Huang, F. Lachenmaier, K. Martynov, D. Sashko, J. Sültemeyer, *Interactive preCICE online tutorial*, BGCE Honours Project, TUM
 * 2017: M. Zellner, *Evaluation of driver models by using a suitable vehicle model in an existing simulation framework*, Master's Thesis Informatics, TUM
 * 2017: G. Chourdakis, *A general OpenFOAM adapter for the coupling library preCICE*, Master's Thesis Computational Science and Engineering, TUM
 * 2017: M. Zintl, *Reconstruction of flight states through ADS-B data*, Bachelor's Thesis Informatics, TUM
@@ -69,7 +69,7 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 * 2015: K. Scheufele, *Robust quasi-Newton methods for partitioned fluid-structure simulations*, Master's Thesis Computer Science, University of Stuttgart
 * 2015: V. Mikerov, *A fixed-grid flow solver for simulation of fluid-structure interaction with the partitioned approach*, Master's Thesis Computational Science and Engineering, TUM
 * 2015: A. Shukaev, *A fully parallel process-to-process intercommunication technique for preCICE*, Master's Thesis Computational Science and Engineering, TUM
-* 2015: A. K\"ohler, *Controlling a two-gene toggle switch -- a genetic inverted pendulum benchmark problem*, Master's Thesis Informatics, TUM
+* 2015: A. Köhler, *Controlling a two-gene toggle switch -- a genetic inverted pendulum benchmark problem*, Master's Thesis Informatics, TUM
 * 2015: I. Farcas, *High-dimensional uncertainty quantification of fluid-structure interaction*, Master's Thesis Computational Science and Engineering, TUM
 * 2014: M. Fabry, *Design and implementation of a flow rate solver for the V-Hab life support system simulation*, Diploma Thesis Mathematics, TUM  
 
