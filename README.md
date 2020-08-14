@@ -1,24 +1,24 @@
-Great that you stumbled upon my GitHub profil :blush:.
+Great that you stumbled upon my GitHub profile :blush:.
 
-I am a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are both connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I am not alone with this believe. Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
+I'm a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
 <p>
   <img width="80" align='left' src="https://github.com/uekerman/uekerman/blob/master/logo.jpg?raw=true">
 </p>
 
 
-Since 2012, I am one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with dozen developers and is used by over 50 research groups and first R&D industrial partners.
+Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 60 research groups in academia, non-academic research centers and industry.
 
 ***
-### Read more about: 
+### Read more about... 
 
-* [The latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274)
-* [preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5)
+* [the latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274)
+* [the preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5)
 ***
 
 ### Research Profile
 
-I always use this sentence: Development of numerical methods and algorithms for multi-physics multi-scale simulations, their efficient implementation on parallel systems, and their realization in easy-to-use, sustainable, and free software. So, quite interdisciplinary. Some buzzwords:
+I always use this sentence: Development of numerical methods and algorithms for multi-physics, multi-scale simulations, their efficient implementation on parallel systems, and their realization in easy-to-use, sustainable, and free software. So, quite interdisciplinary. Some buzzwords:
 * **Numerics**: quasi-Newton methods, radial-basis function interpolation, waveform relaxation, uncertainty quantification
 * **Computer Science**: high-performance computing, research software engineering, free and open-source software
 * **Engineering**: fluid-structure interaction, fluid-acoustics coupling, turbulence modeling, finite element method
