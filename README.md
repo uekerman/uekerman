@@ -1,6 +1,6 @@
-Great that you've stumbled upon my GitHub profile :blush:.
+Great that you've stumbled upon my GitHub profile :blush:
 
-I'm a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer by heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
+I'm a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
 <p>
   <img width="80" align='left' src="https://github.com/uekerman/uekerman/blob/master/logo.jpg?raw=true">
