@@ -12,9 +12,10 @@ Since 2012, I've been one of the main developers of the [coupling library preCIC
 ***
 ### Read more about... 
 
-* [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321)
-* [the latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274)
-* [the preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5)
+* [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
+* [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
+* [the latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274).
+* [the preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5).
 ***
 
 ### Research Profile
