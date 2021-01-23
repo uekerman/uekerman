@@ -1,6 +1,6 @@
 Great that you've stumbled upon my GitHub profile :blush:
 
-I'm a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engineering) and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
+I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtech.uni-stuttgart.de/) at the University of Stuttgart and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
 <p>
   <img width="80" align='left' src="https://github.com/uekerman/uekerman/blob/master/logo.jpg?raw=true">
@@ -10,11 +10,16 @@ I'm a postdoctoral researcher at [TU/e](https://www.tue.nl/en/) (Mechanical Engi
 Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 60 research groups in academia, non-academic research centers and industry.
 
 ***
+
+Join the [virtual preCICE workshop 2021](https://www.precice.org/precice-workshop-2021.html), Feb 22-25.
+
+
+***
 ### Read more about... 
 
+* [the latest preCICE release v2.2](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-2/429).
 * [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
 * [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
-* [the latest preCICE release v2.1](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-1/274).
 * [the preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5).
 ***
 
@@ -31,6 +36,7 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 
 ### CV
 
+* Since 2021: Junior professor, [Institute for Parallel and Distributed Systems](https://www.ipvs.uni-stuttgart.de/), University of Stuttgart, [SimTech](https://www.simtech.uni-stuttgart.de/)
 * 2019–2020: Postdoc, [Energy Technolog](https://www.energy-tue.nl/), Mechanical Engineering, TU/e, [EuroTech Postdoc Program](http://postdoc.eurotech-universities.eu/)
 * 2016–2018: Postdoc, [Scientific Computing in Computer Science](https://www5.in.tum.de/wiki/index.php/Welcome_to_SCCS!), TUM, Scientific Program Manager of [SPPEXA](http://www.sppexa.de/)
 * 2012–2016: Doctoral Candidate, [Scientific Computing in Computer Science](https://www5.in.tum.de/wiki/index.php/Welcome_to_SCCS!), TUM
@@ -44,15 +50,19 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 
 ... all currently running
 
-* Since 2019: [Frédéric Simonis](https://www5.in.tum.de/wiki/index.php/Fr%C3%A9d%C3%A9ric_Simonis,_M.Sc.) [:octocat:](https://github.com/fsimonis), *Robust and efficient numerical data mapping for massively parallel partitioned multi-physics simulations with dynamic adaptive meshes*
-* Since 2018: [Gerasimos Chourdakis](https://www5.in.tum.de/wiki/index.php/Gerasimos_Chourdakis,_M.Sc.) [:octocat:](https://github.com/MakisH), *Flexible algorithms and software for complex geometric multi-scale coupling*
-* Since 2017: [Benjamin Rüth](https://www5.in.tum.de/wiki/index.php/Benjamin_R%C3%BCth,_M.Sc._(hons)) [:octocat:](https://github.com/BenjaminRueth), *Black-box time interpolation methods for multi-physics*
+
+
+* Since 2021: [Ishaan Desai](https://www.linkedin.com/in/ishaandesai/) [:octocat:](https://github.com/IshaanDesai) *Adaptive and flexible macro-micro coupling software* (University of Stuttgart)
+* Since 2019: [Frédéric Simonis](https://www5.in.tum.de/wiki/index.php/Fr%C3%A9d%C3%A9ric_Simonis,_M.Sc.) [:octocat:](https://github.com/fsimonis), *Robust and efficient numerical data mapping for massively parallel partitioned multi-physics simulations with dynamic adaptive meshes* (TUM)
+* Since 2018: [Gerasimos Chourdakis](https://www5.in.tum.de/wiki/index.php/Gerasimos_Chourdakis,_M.Sc.) [:octocat:](https://github.com/MakisH), *Flexible algorithms and software for complex geometric multi-scale coupling* (TUM)
+* Since 2017: [Benjamin Rüth](https://www5.in.tum.de/wiki/index.php/Benjamin_R%C3%BCth,_M.Sc._(hons)) [:octocat:](https://github.com/BenjaminRueth), *Black-box time interpolation methods for multi-physics* (TUM)
 
 ### Students Projects
 
 <details>
   <summary>Click to expand</summary>
-  
+
+* 2021: I. Desai, *Geometric aspects of code coupling in magnetic fusion applications*, Master's Thesis Computational Science and Engineering, TUM
 * 2020: C. Osse, *Geometric multi-scale flooding simulations*, Bachelor End Project Mechanical Engineering, TU/e
 * 2019: L. Bekker, *GPGPU acceleration -- a case study of algebraic multigrid preconditioned GMRES*, Master's Thesis Mathematics, TU/e
 * 2018: A. Trujillo, *Structural multi-model coupling with CalculiX and preCICE*, Master's Thesis Computational Science, Uppsala University and TUM
