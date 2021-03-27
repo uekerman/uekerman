@@ -62,7 +62,7 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
-* 2021: I. Desai, *Geometric aspects of code coupling in magnetic fusion applications*, Master's Thesis Computational Science and Engineering, TUM
+* 2020: I. Desai, *Geometric aspects of code coupling in magnetic fusion applications*, Master's Thesis Computational Science and Engineering, TUM
 * 2020: C. Osse, *Geometric multi-scale flooding simulations*, Bachelor End Project Mechanical Engineering, TU/e
 * 2019: L. Bekker, *GPGPU acceleration -- a case study of algebraic multigrid preconditioned GMRES*, Master's Thesis Mathematics, TU/e
 * 2018: A. Trujillo, *Structural multi-model coupling with CalculiX and preCICE*, Master's Thesis Computational Science, Uppsala University and TUM
