@@ -9,18 +9,14 @@ I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtec
 
 Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 60 research groups in academia, non-academic research centers and industry.
 
-***
-
-Join the [virtual preCICE workshop 2021](https://www.precice.org/precice-workshop-2021.html), Feb 22-25.
-
 
 ***
 ### Read more about... 
 
+* [how we redesigned the preCICE tutorials and documentation](https://precice.discourse.group/t/redesigned-precice-tutorials-and-documentation-precice-distribution-and-more-news/583).
 * [the latest preCICE release v2.2](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-2/429).
 * [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
 * [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
-* [the preCICE Workshop 2020](https://precice.discourse.group/t/precice-workshop-2020-updates/40/5).
 ***
 
 ### Research Profile
