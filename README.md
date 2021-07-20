@@ -1,13 +1,21 @@
 Great that you've stumbled upon my GitHub profile :blush:
 
-I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtech.uni-stuttgart.de/) at the University of Stuttgart and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://arxiv.org/abs/2005.01469) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
+I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtech.uni-stuttgart.de/) at the University of Stuttgart and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://f1000research.com/articles/9-295/v2) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
 
 <p>
   <img width="80" align='left' src="https://github.com/uekerman/uekerman/blob/master/logo.jpg?raw=true">
 </p>
 
 
-Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 60 research groups in academia, non-academic research centers and industry.
+Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 100 research groups in academia, non-academic research centers and industry.
+
+***
+### New course "Simulation Software Engineering"
+
+Held for the first time in WT2021/22 at the University of Stuttgart together with Alexander Jaust [:octocat:](https://github.com/ajaust). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
+
+* Watch the teaser: https://www.youtube.com/watch?v=1GUVWLSxt2s
+* Website of the course: https://simulation-software-engineering.github.io/homepage/
 
 
 ***
@@ -87,7 +95,10 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 
 <details>
   <summary>Click to expand</summary>
-  
+
+* ST 2021: *Foundation of Numerical Programming*, US
+  * Format: lecture, language: German, audience: Informatics (Bachelor), 100 participants
+  * Content: Floating point arithmetic, interpolation, quadrature, solving linear systems, ODEs, iterative methods
 * ST 2019, 2020: *Advanced Discretization Techniques*, TU/e 
   * Format: lecture (part), language: English, audience: Mechanical Engineering (Master), 30 participants 
   * Content: Finite element discretizations, functional setting, mathematical analysis, data structures, stabilization 
