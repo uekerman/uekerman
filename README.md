@@ -21,8 +21,9 @@ Held for the first time in WT2021/22 at the University of Stuttgart together wit
 ***
 ### Read more about... 
 
+* [how to overcome complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software), a blog post we wrote for [bssw.io](https://bssw.io/).
 * [how we redesigned the preCICE tutorials and documentation](https://precice.discourse.group/t/redesigned-precice-tutorials-and-documentation-precice-distribution-and-more-news/583).
-* [the latest preCICE release v2.2](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-2/429).
+* [the latest preCICE release v2.3](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-3/750).
 * [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
 * [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
 ***
@@ -66,6 +67,8 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
+* 2021: P. Kharitenko, *Coupling Julia-based simulations via preCICE*, Bachelor's Thesis, Software Engineering, US
+* 2021: C. van Otterlo, *Numerical coupling between the finite volume and finite element method in multiphysics turbulence problems*, Master’s Thesis, Mechanical Engineering, TU/e  
 * 2020: I. Desai, *Geometric aspects of code coupling in magnetic fusion applications*, Master's Thesis Computational Science and Engineering, TUM
 * 2020: C. Osse, *Geometric multi-scale flooding simulations*, Bachelor End Project Mechanical Engineering, TU/e
 * 2019: L. Bekker, *GPGPU acceleration -- a case study of algebraic multigrid preconditioned GMRES*, Master's Thesis Mathematics, TU/e
