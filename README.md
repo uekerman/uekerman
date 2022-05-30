@@ -21,9 +21,9 @@ Held for the first time in WT2021/22 at the University of Stuttgart together wit
 ***
 ### Read more about... 
 
+* [the latest preCICE release v2.4](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-4/1047).
 * [how to overcome complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software), a blog post we wrote for [bssw.io](https://bssw.io/).
 * [how we redesigned the preCICE tutorials and documentation](https://precice.discourse.group/t/redesigned-precice-tutorials-and-documentation-precice-distribution-and-more-news/583).
-* [the latest preCICE release v2.3](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-3/750).
 * [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
 * [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
 ***
