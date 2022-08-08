@@ -12,11 +12,16 @@ Since 2012, I've been one of the main developers of the [coupling library preCIC
 ***
 ### New course "Simulation Software Engineering"
 
-Held for the first time in WT2021/22 at the University of Stuttgart together with Alexander Jaust [:octocat:](https://github.com/ajaust). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
+Held for the first time in WT2021/22 and will be repeated in WT2022/23 at the University of Stuttgart. Developed together with Alexander Jaust [:octocat:](https://github.com/ajaust). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
 
 * Watch the teaser: https://www.youtube.com/watch?v=1GUVWLSxt2s
-* Website of the course: https://simulation-software-engineering.github.io/homepage/
+* Website of the course: https://simulation-software-engineering.github.io
 
+***
+### Conferences to keep on the radar
+
+* [preCICE Workshop 2023](https://precice.org/precice-workshop-2023.html), Feb 13-16, 2023 in Munich
+* [deRSE Unconference 2023](https://de-rse.org/unconf2023/), Sep 12-14, 2023 in Jena 
 
 ***
 ### Read more about... 
@@ -67,6 +72,8 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
+* 2022: F. Otlinghaus, *Coupling of macro and micro scale in a continuum-biomechanical model of the human liver using*, Master’s Thesis, Simulation Technology, US
+* 2022: B. Ariguib, *Second-order projection-based mapping methods for coupled multi-physics simulations*, Bachelor's Thesis, Software Engineering, US
 * 2021: P. Kharitenko, *Coupling Julia-based simulations via preCICE*, Bachelor's Thesis, Software Engineering, US
 * 2021: C. van Otterlo, *Numerical coupling between the finite volume and finite element method in multiphysics turbulence problems*, Master’s Thesis, Mechanical Engineering, TU/e  
 * 2020: I. Desai, *Geometric aspects of code coupling in magnetic fusion applications*, Master's Thesis Computational Science and Engineering, TUM
@@ -99,7 +106,10 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
-* ST 2021: *Foundation of Numerical Programming*, US
+* WT 2021/22, 2022/23: *Simulation Software Engineering*, US
+  * Format: lecture + lab course, language: English, audience: Informatics + Simulation Technology (Master), 20 participants
+  * Content: Git workflows, building and packaging, virtualization and containerization, software documentation, testing and continuous integration, how to contribute to FOSS research software
+* ST 2021, 2022: *Foundation of Numerical Programming*, US
   * Format: lecture, language: German, audience: Informatics (Bachelor), 100 participants
   * Content: Floating point arithmetic, interpolation, quadrature, solving linear systems, ODEs, iterative methods
 * ST 2019, 2020: *Advanced Discretization Techniques*, TU/e 
