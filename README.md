@@ -26,6 +26,7 @@ Held for the first time in WT2021/22 and will be repeated in WT2022/23 at the Un
 ***
 ### Read more about... 
 
+* [overcoming complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software)
 * [the latest preCICE release v2.4](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-4/1047).
 * [how to overcome complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software), a blog post we wrote for [bssw.io](https://bssw.io/).
 * [how we redesigned the preCICE tutorials and documentation](https://precice.discourse.group/t/redesigned-precice-tutorials-and-documentation-precice-distribution-and-more-news/583).
