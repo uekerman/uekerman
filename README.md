@@ -1,49 +1,54 @@
 Great that you've stumbled upon my GitHub profile :blush:
 
-I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtech.uni-stuttgart.de/) at the University of Stuttgart and a scientific software developer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://f1000research.com/articles/9-295/v2) the [German RSE Community](https://de-rse.org/en/) recently formulated. 
+I'm a junior professor in the Cluster of Excellence [SimTech](https://www.simtech.uni-stuttgart.de/) at the University of Stuttgart and a research software engineer at heart. How are the two connected? Well, I strongly believe that passionate and sustainable scientific software development leads to better science. I'm not alone with this belief: Have a look at the [position paper](https://f1000research.com/articles/9-295/v2) the [German RSE Community](https://de-rse.org/en/) formulated in 2020. 
 
 <p>
   <img width="80" align='left' src="https://github.com/uekerman/uekerman/blob/master/logo.jpg?raw=true">
 </p>
 
 
-Since 2012, I've been one of the main developers of the [coupling library preCICE](https://www.precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 100 research groups in academia, non-academic research centers and industry.
+Since 2012, I've been one of the main developers of the [coupling library preCICE](https://precice.org/). Starting with two developers and two users, preCICE is now a community project with about a dozen developers and is used by over 100 research groups in academia, non-academic research centers, and industry.
 
 ***
+
 ### New course "Simulation Software Engineering"
 
-Held for the first time in WT2021/22 and will be repeated in WT2022/23 at the University of Stuttgart. Developed together with Alexander Jaust [:octocat:](https://github.com/ajaust). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
+Held for the first time in WT2021/22 and repeated in WT2022/23 at the University of Stuttgart. Developed together with Alexander Jaust [:octocat:](https://github.com/ajaust) and with important contributions by Ishaan Desai [:octocat:](https://github.com/IshaanDesai). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
 
 * Watch the teaser: https://www.youtube.com/watch?v=1GUVWLSxt2s
 * Website of the course: https://simulation-software-engineering.github.io
 
 ***
+
 ### Conferences to keep on the radar
 
 * [preCICE Workshop 2023](https://precice.org/precice-workshop-2023.html), Feb 13-16, 2023 in Munich
 * [deRSE Unconference 2023](https://de-rse.org/unconf2023/), Sep 12-14, 2023 in Jena 
 
 ***
+
 ### Read more about... 
 
 * [overcoming complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software).
-* [the latest preCICE release v2.4](https://precice.discourse.group/t/highlights-of-the-new-precice-release-v2-4/1047).
+* [the lastest preCICE distribution release v2211.0](https://precice.discourse.group/t/aste-and-more-new-components-in-the-precice-distribution-v2211-0/1229)
+* [the latest preCICE release v2.5](https://precice.discourse.group/t/iceberg-ahead-and-new-precice-release-v2-5/1133).
 * [how to overcome complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software), a blog post we wrote for [bssw.io](https://bssw.io/).
 * [how we redesigned the preCICE tutorials and documentation](https://precice.discourse.group/t/redesigned-precice-tutorials-and-documentation-precice-distribution-and-more-news/583).
 * [the German Priority Program on Exascale Computing SPPEXA](https://link.springer.com/book/10.1007/978-3-030-47956-5). The book with summaries from all projects is open access. 
 * [how preCICE got popular](https://precice.discourse.group/t/how-did-precice-get-popular/321).
+
 ***
 
 ### Research Profile
 
 I always use this sentence: Development of numerical methods and algorithms for multi-physics, multi-scale simulations, their efficient implementation on parallel systems, and their realization in easy-to-use, sustainable, and free software. So, quite interdisciplinary. Some buzzwords:
-* **Numerics**: quasi-Newton methods, radial-basis function interpolation, waveform relaxation, uncertainty quantification
+* **Numerics**: quasi-Newton methods, radial-basis function interpolation, waveform relaxation, uncertainty quantification, homogenization
 * **Computer Science**: high-performance computing, research software engineering, free and open-source software
 * **Engineering**: fluid-structure interaction, fluid-acoustics coupling, turbulence modeling, finite element method
 
 ### Publications
 
-You can find my publications on [Google Scholar](https://scholar.google.de/citations?user=CGxtmcwAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Benjamin_Uekermann).
+You can find my publications on [Google Scholar](https://scholar.google.de/citations?user=CGxtmcwAAAAJ&hl=en).
 
 ### CV
 
@@ -58,9 +63,6 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
   * 2009–2010: Exchange program at Ecole Polytechnique, Paris, France
 
 ### Doctoral Candidates
-
-... all currently running
-
 
 * Since 2021: [David Schneider](https://www.ipvs.uni-stuttgart.de/institute/team/Schneider-00056/) [:octocat:](https://github.com/DavidSCN), *Flexible and Efficient Data Mapping for Simulation of Coupled Problems* (University of Stuttgart)
 * Since 2021: [Ishaan Desai](https://www.ipvs.uni-stuttgart.de/institute/team/Desai/) [:octocat:](https://github.com/IshaanDesai), *Adaptive and flexible macro-micro coupling software* (University of Stuttgart)
@@ -107,8 +109,11 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
-* WT 2021/22, 2022/23: *Simulation Software Engineering*, US
-  * Format: lecture + lab course, language: English, audience: Informatics + Simulation Technology (Master), 20 participants
+* WT 2022/23: [*Research Software Engineering 102*](https://github.com/RSE-102/Lecture-Material/tree/main), US
+  * Format: block course, language: English, audience: PhD students of various programs, 10 participants
+  * Content: Git workflows, building and packaging, containerization, testing and continuous integration, software design principles
+* WT 2021/22, 2022/23: [*Simulation Software Engineering*](https://simulation-software-engineering.github.io), US
+  * Format: lecture + lab course, language: English, audience: Informatics + Simulation Technology (Master), 30 participants
   * Content: Git workflows, building and packaging, virtualization and containerization, software documentation, testing and continuous integration, how to contribute to FOSS research software
 * ST 2021, 2022: *Foundation of Numerical Programming*, US
   * Format: lecture, language: German, audience: Informatics (Bachelor), 100 participants
