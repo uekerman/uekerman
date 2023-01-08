@@ -75,7 +75,7 @@ You can find my publications on [Google Scholar](https://scholar.google.de/citat
 <details>
   <summary>Click to expand</summary>
 
-* 2022: F. Otlinghaus, *Coupling of macro and micro scale in a continuum-biomechanical model of the human liver using*, Master’s Thesis, Simulation Technology, US
+* 2022: F. Otlinghaus, *Coupling of macro and micro scale in a continuum-biomechanical model of the human liver using preCICE*, Master’s Thesis, Simulation Technology, US
 * 2022: B. Ariguib, *Second-order projection-based mapping methods for coupled multi-physics simulations*, Bachelor's Thesis, Software Engineering, US
 * 2021: P. Kharitenko, *Coupling Julia-based simulations via preCICE*, Bachelor's Thesis, Software Engineering, US
 * 2021: C. van Otterlo, *Numerical coupling between the finite volume and finite element method in multiphysics turbulence problems*, Master’s Thesis, Mechanical Engineering, TU/e  
