@@ -11,6 +11,16 @@ Since 2012, I've been one of the main developers of the [coupling library preCIC
 
 ***
 
+### Student wanted
+
+We are constantly looking for students (any thesis, student project, student assistant, ...). For examples, see the list of finished theses below. In particular, we are currently looking for:
+
+- [Multiscale material simulations using the FE-FFT method with the coupling library preCICE](https://github.com/uekerman/uekerman/blob/master/DAE_US3_announcement.pdf), a cooperation with [Data Analytics in Engineering](https://www.mib.uni-stuttgart.de/dae/)
+- [Coupled Ice-Sheet-Subglacial Hydrology Simulations](https://github.com/uekerman/uekerman/blob/master/AWI_US3_announcement.pdf), a cooperation with [Alfred Wegener Institute](https://www.awi.de/en/about-us/service/expert-database/angelika-humbert.html)
+- [Student assistants: C++, GPU, and data mapping](https://github.com/uekerman/uekerman/blob/master/hiwi_flexmap.pdf)
+
+***
+
 ### New course "Simulation Software Engineering"
 
 Held for the first time in WT2021/22 and repeated in WT2022/23 at the University of Stuttgart. Developed together with Alexander Jaust [:octocat:](https://github.com/ajaust) and with important contributions by Ishaan Desai [:octocat:](https://github.com/IshaanDesai). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
@@ -22,14 +32,13 @@ Held for the first time in WT2021/22 and repeated in WT2022/23 at the University
 
 ### Conferences to keep on the radar
 
+* [deRSE Unconference 2023](https://de-rse.org/unconf2023/), Sep 12-14, 2023 in Jena
 * [preCICE Workshop 2023](https://precice.org/precice-workshop-2023.html), Feb 13-16, 2023 in Munich
-* [deRSE Unconference 2023](https://de-rse.org/unconf2023/), Sep 12-14, 2023 in Jena 
 
 ***
 
 ### Read more about... 
 
-* [overcoming complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software).
 * [the lastest preCICE distribution release v2211.0](https://precice.discourse.group/t/aste-and-more-new-components-in-the-precice-distribution-v2211-0/1229)
 * [the latest preCICE release v2.5](https://precice.discourse.group/t/iceberg-ahead-and-new-precice-release-v2-5/1133).
 * [how to overcome complexity in testing multiphysics coupling software](https://bssw.io/blog_posts/overcoming-complexity-in-testing-multiphysics-coupling-software), a blog post we wrote for [bssw.io](https://bssw.io/).
