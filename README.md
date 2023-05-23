@@ -11,7 +11,7 @@ Since 2012, I've been one of the main developers of the [coupling library preCIC
 
 ***
 
-### Student wanted
+### Students wanted
 
 We are constantly looking for students (any thesis, student project, student assistant, ...). For examples, see the list of finished theses below. In particular, we are currently looking for:
 
