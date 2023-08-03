@@ -36,6 +36,7 @@ Held for the first time in WT2021/22 and repeated in WT2022/23 at the University
 
 * [deRSE Unconference 2023](https://de-rse.org/unconf2023/), Sep 12-14, 2023 in Jena
 * [preCICE Workshop 2023](https://precice.org/precice-workshop-2023.html), Feb 13-16, 2023 in Munich
+* Save the date: preCICE Workshop 2024, Sep 24-27 in Stuttgart
 
 ***
 
