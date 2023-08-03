@@ -25,6 +25,8 @@ We are constantly looking for students (any thesis, student project, student ass
 
 Held for the first time in WT2021/22 and repeated in WT2022/23 at the University of Stuttgart. Developed together with Alexander Jaust [:octocat:](https://github.com/ajaust) and with important contributions by Ishaan Desai [:octocat:](https://github.com/IshaanDesai). The course targets CS and SimTech master students. You learn everything you need to know to develop simulation software beyond programming.
 
+**I will be on parental leave in WT2023/24. Next course presumably in WT2024/25.**
+
 * Watch the teaser: https://www.youtube.com/watch?v=1GUVWLSxt2s
 * Website of the course: https://simulation-software-engineering.github.io
 
